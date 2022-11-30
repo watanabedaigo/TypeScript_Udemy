@@ -1,0 +1,19 @@
+{
+  "name": "typescropt_udemy",
+  "version": "1.0.0",
+  "description": "## コンパイルを実行するコマンド例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watanabedaigo/TypeScript_Udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watanabedaigo/TypeScript_Udemy/issues"
+  },
+  "homepage": "https://github.com/watanabedaigo/TypeScript_Udemy#readme"
+}
