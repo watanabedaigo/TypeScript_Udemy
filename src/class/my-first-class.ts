@@ -7,7 +7,7 @@ class Person {
   age: number;
 
   // constructor
-  // 自動で実行される初期化処理。引数の値が指定したプロパティに渡される。
+  // 自動で実行される初期化処理。指定したプロパティに引数の値が渡される。
   // returnしないため、戻り値の型指定はしなくてよい。
   constructor(name: string, age: number) {
     this.name = name;
